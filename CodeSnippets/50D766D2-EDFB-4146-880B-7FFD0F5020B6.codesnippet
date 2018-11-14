@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pw</string>
+	<string>wn</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) id&lt;&lt;#protocol#&gt;&gt; delegate;</string>
+	<string>#warning liugangyi &lt;#message#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2C475FEF-2A0C-4029-909D-40783C91A31F</string>
+	<string>50D766D2-EDFB-4146-880B-7FFD0F5020B6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>delegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>property weak</string>
+	<string>warning message</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
