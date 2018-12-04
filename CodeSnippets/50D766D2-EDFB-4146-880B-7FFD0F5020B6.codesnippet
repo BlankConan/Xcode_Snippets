@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#warning liugangyi &lt;#message#&gt;</string>
+	<string>/// &lt;#注释#&gt;.
+@property (nonatomic, strong) &lt;#object_type#&gt; *&lt;#object_value#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50D766D2-EDFB-4146-880B-7FFD0F5020B6</string>
 	<key>IDECodeSnippetLanguage</key>

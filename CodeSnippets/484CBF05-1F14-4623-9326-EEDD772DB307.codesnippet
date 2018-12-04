@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) &lt;#object_type#&gt; *&lt;#object_value#&gt;;</string>
+	<string>/// &lt;#注释#&gt;.
+@property (nonatomic, copy) &lt;#return type#&gt; (^&lt;#name#&gt;)(&lt;#arguments_t#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>484CBF05-1F14-4623-9326-EEDD772DB307</string>
 	<key>IDECodeSnippetLanguage</key>
