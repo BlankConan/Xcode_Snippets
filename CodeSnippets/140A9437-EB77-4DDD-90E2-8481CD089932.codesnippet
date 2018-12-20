@@ -3,27 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pc</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// &lt;#注释#&gt;.
-@property (nonatomic, copy) &lt;#objc_type#&gt; *&lt;#obj#&gt;;</string>
+	<string>#pragma mark - &lt;#注释#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>484CBF05-1F14-4623-9326-EEDD772DB307</string>
+	<string>140A9437-EB77-4DDD-90E2-8481CD089932</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>copy</string>
+	<string>代码分割</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>property copy</string>
+	<string>code sl</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
